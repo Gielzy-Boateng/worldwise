@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "2ddb",
+      "cityName": "Accra",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2024-06-20T14:56:28.909Z",
+      "notes": "Fantastic",
+      "position": {
+        "lat": "5.564301115510107",
+        "lng": "-0.18951416015625003"
+      }
+    },
+    {
+      "id": "013d",
+      "cityName": "Useras",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-04T09:12:42.000Z",
+      "notes": "rytyh",
+      "position": {
+        "lat": "40.217392833816106",
+        "lng": "-0.1097948556460371"
+      }
+    },
+    {
+      "id": "0f19",
+      "cityName": "Accra",
+      "country": "Ghana",
+      "emoji": "🇬🇭",
+      "date": "2024-06-25T14:59:35.775Z",
+      "notes": "hhghghhhfh",
+      "position": {
+        "lat": "5.6664308666410985",
+        "lng": "0.01754636076178429"
+      }
+    }
+  ]
+}
